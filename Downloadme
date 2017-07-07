@@ -1,0 +1,6 @@
+public class Downloadme
+{
+public static void main(){
+system.out.println("downloaded fro GitHub");
+}
+}
